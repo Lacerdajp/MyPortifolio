@@ -1,0 +1,2 @@
+ sass --watch node_modules/bootstrap/scss:node_modules/bootstrap/compiler
+  sass --watch node_modules/@fortawesome/fontawesome-free/scss: node_modules/@fortawesome/fontawesome-free/Compiler
