@@ -1,0 +1,11 @@
+@media only screen and ((max-device-width: 990px)or (max-width:990px)) {
+        .navbar{
+            height:100px;
+            font-size: 30px;
+        }
+        .navbar-toggler{
+            width: 100px;
+            height: 200px;
+        }
+    
+}
