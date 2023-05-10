@@ -1,0 +1,27 @@
+.nav-link{
+    --bs-nav-link-hover-color:white;
+    
+   }
+   .nav-item{
+    color: rgb(182, 182, 182);
+   }
+   .btn-icon{
+        border-color: transparent;
+        background-color:transparent;
+        width: 30px;
+        
+   }
+   p{
+    font-size: 20px;
+   }
+   img    {
+    border-radius: 100%;
+    width: 350px;
+    height: var(width);
+    margin-left: 10px;
+    max-width: 350px;
+    min-width: 250px;
+    -webkit-box-shadow: 5px 5px 37px 17px #000000; 
+    box-shadow: 5px 5px 37px 17px #000000;
+    }
+   

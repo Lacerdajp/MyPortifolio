@@ -1,11 +1,56 @@
-@media only screen and ((max-device-width: 990px)or (max-width:990px)) {
+@media only screen and ((max-device-width: 990px)) {
         .navbar{
-            height:100px;
+            height:150px;
             font-size: 30px;
+            margin-bottom: 0px!important;
         }
         .navbar-toggler{
-            width: 100px;
-            height: 200px;
+            width: 10%;
+            height: 100%;
+            --bs-navbar-toggler-border-color: transparent;
+            color:#fff;
         }
-    
+       .bi{
+            font-size: 300%;
+       }
+      
+       .nav-link{
+        --bs-nav-link-hover-color:white;
+        
+       }
+       .nav-item{
+        color: rgb(182, 182, 182);
+        font-size: 50px;
+       }
+       .offcanvas.offcanvas-end.text-bg-dark{
+        background-color: black!important;
+        opacity: 0.9;
+       }
+       /* .navbar-nav.me-auto.my-2.my-lg-0.navbar-nav-scroll{
+        margin-top: 0rem!important;
+        margin-left: 15px;
+        
+       } */
+       .btn-icon{
+        border-color: transparent;
+        background-color: transparent;
+        width: 10%;
+        height: 50px;
+   }
+   h1{
+        font-size: 90px!important;
+   }
+   p{
+    font-size: 50px;
+   }
+   img    {
+    height: 800px;
+    border-radius: 100%;
+    margin-right: 5%;
+    max-width: 1000px;
+    min-width: 800px;
+    margin-bottom: 100px;
+    }
+   
+   
 }
